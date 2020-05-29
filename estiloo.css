@@ -1,0 +1,44 @@
+header { font-family: fantasy;
+      font-weight: bold;
+      padding: 50PX;
+      
+}
+body { text-align: center;
+
+}
+div {
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    width: 960px;
+    
+    margin: auto;
+    padding: 100px;
+    border: 50px solid black;
+    text-align: center;
+}
+ header h1 { font-family: cursive;
+    font-size: 60PX;
+}
+input{  width: 400px;
+height: 150px;
+}
+
+header h2{font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+type
+
+}
+.MENU li {    
+    height: 400PX;
+display: inline-block;
+    font-size: 100px;
+padding: 15PX;
+    
+    }
+
+li { font-size: 30px;
+    display: inline-block;
+
+}
+header img{ width: 500px;
+}
+footer{font-size: 40PX;}
